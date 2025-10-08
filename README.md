@@ -5,6 +5,7 @@ A Test Driven Development exercise to implement the classic Tic Tac Toe game.
 ## Table of Contents
 
 - [Overview](#overview)
+- [Interview Preparation](#interview-preparation)
 - [Game Rules](#game-rules)
 - [Requirements](#requirements)
 - [Getting Started](#getting-started)
@@ -52,3 +53,11 @@ Benefits of TDD include:
 - Built-in regression testing
 - Better code design through incremental development
 - Living documentation through test cases
+
+## Interview Preparation
+
+If you're using this kata as part of your interview process, make sure that either you or the candidate (depending on who will be providing the machine) creates the repository in advance. Doing this ahead of time helps ensure the session starts smoothly and maximizes the time spent on the actual exercise.
+
+Here’s a suggested snippet to include in your pre-interview communication to candidates:
+
+> To make the most of our interview time and ensure a smooth experience, please create a new local project on your machine with a working test in the language of your choice. We’ll use this project as the foundation for a kata during the interview.
